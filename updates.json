@@ -1,0 +1,24 @@
+{
+  "DATA": {
+    "https://vikingfile.com/d/CLXJ1msft0/ELDEN.RING.NIGHTREIGN_CUSA50617_v1.22_BACKPORT_[5.05-6.72-7.xx-9.00-11.00-12.00]_OPOISSO893.pkg": {
+      "title_id": "CUSA50617",
+      "region": "EUR",
+      "name": "Elden Ring Nightreign",
+      "version": "01.22",
+      "release": "11-15-2013",
+      "size": 20590559232,
+      "min_fw": "9.00",
+      "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA50617.png"
+    },
+	"https://vikingfile.com/d/uGD0dPK68y/UP9000-CUSA33617_00-A0101-V0100-CyB1K-%5BDLPSGAME.COM%5D.pkg": {
+      "title_id": "CUSA33617",
+      "region": "USA",
+      "name": "Pinball Heroes",
+      "version": "01.01",
+      "release": "11-15-2013",
+      "size": 1048576,
+      "min_fw": "9.00",
+      "cover_url": "https://dlpsgame.com/wp-content/uploads/2026/02/1-1.png"
+    }
+  }
+}
