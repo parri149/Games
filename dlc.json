@@ -1,24 +1,24 @@
 {
   "DATA": {
-    "https://archive.org/download/ps4-fpkg-collection-english-r/Rock%20Band%204%20Expansion%20Pack%201.pkg": {
-      "title_id": "CUSA02084",
+    "https://vikingfile.com/d/tJJzYLP8Uo/ELDEN.RING.NIGHTREIGN_CUSA50617_DLCPACK_[2]_OPOISSO893/ELDEN.RING.NIGHTREIGN_CUSA50617_Pre-order.bonus_OPOISSO893.pkg": {
+      "title_id": "CUSA50617",
       "region": "USA",
-      "name": "Rock Band™ Expansion Pack 1",
-      "version": "",
+      "name": "Elden Ring Nightreign",
+      "version": "01.00",
       "release": "11-15-2013",
       "size": 20590559232,
       "min_fw": "9.00",
-      "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA02084.png"
+      "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA50617.png"
     },
-	"https://archive.org/download/ps4-fpkg-collection-english-t/TowerFall%20Dark%20World%20Expansion.pkg": {
-      "title_id": "CUSA00466",
+	"https://vikingfile.com/d/tJJzYLP8Uo/ELDEN.RING.NIGHTREIGN_CUSA50617_DLCPACK_[2]_OPOISSO893/ELDEN.RING.NIGHTREIGN_CUSA50617_The.Forsaken.Hollows_OPOISSO893.pkg": {
+      "title_id": "CUSA50617",
       "region": "USA",
-      "name": "TowerFall Dark World Expansion",
-      "version": "",
+      "name": "Elden Ring Nightreign",
+      "version": "01.00",
       "release": "11-15-2013",
       "size": 1048576,
       "min_fw": "9.00",
-      "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA00466.png"
+      "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA50617.png"
     }
   }
 }
