@@ -1,9 +1,24 @@
 {
-  "data": [
-    {
-      "name": "Far Cry 6",
-      "titleid": "CUSA15778",
-      "url": "https://vikingfile.com/d/2f7hsammx6/Far.Cry.6_CUSA15778_v1.00_[9.00]_OPOISSO893.pkg"
+  "DATA": {
+    "https://vikingfile.com/d/9cASpN2c1G/ELDEN.RING.NIGHTREIGN_CUSA50617_v1.00_[11.00]_OPOISSO893.pkg": {
+      "title_id": "CUSA50617",
+      "region": "EUR",
+      "name": "Elden Ring Nightreign",
+      "version": "01.00",
+      "release": "11-15-2013",
+      "size": 7746420736,
+      "min_fw": "9.00",
+      "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA50617.png"
+    },
+    "https://vikingfile.com/d/plLuj30bXY/UP9000-CUSA33617_00-A0100-V0101-CyB1K-%5BDLPSGAME.COM%5D.pkg": {
+      "title_id": "CUSA33617",
+      "region": "USA",
+      "name": "Pinball Heroes",
+      "version": "01.00",
+      "release": "11-15-2013",
+      "size": 8281391104,
+      "min_fw": "9.00",
+      "cover_url": "https://dlpsgame.com/wp-content/uploads/2026/02/1-1.png"
     }
-  ]
+  }
 }
